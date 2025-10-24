@@ -39,7 +39,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/xGOLSAWx/Portfolio_Sample1.git
 Open the file: Navigate to the cloned directory and open the index.html file in your web browser. That's it!
 
 🎨 Customization
