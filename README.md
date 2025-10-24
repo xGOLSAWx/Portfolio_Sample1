@@ -1,10 +1,7 @@
 Advanced Single-File Portfolio
 This repository contains the source code for a modern, interactive, single-file personal portfolio website. It is built with vanilla HTML, CSS, and JavaScript and features numerous advanced animations and effects, all contained within a single index.html file for easy deployment.
 
-A screenshot of the live portfolio website.
-
 🚀 Live Demo
-You can see a live version of this portfolio here: [Link to your live site] (https://xgolsawx.github.io/Portfolio_Sample1/)
 
 ✨ Key Features
 This project is more than just a static page; it's a demonstration of modern web capabilities:
